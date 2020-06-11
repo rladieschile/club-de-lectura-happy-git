@@ -4,7 +4,7 @@
 ## Sesión 1 - sección I: Installation
 Miércoles 10 de junio - 20:00 UTC-4 | Sesión a cargo de [Macarena Valenzuela](https://twitter.com/macavalenzuela)
 
-* Video
+* [Video](https://vimeo.com/427950367)
 * Materiales
 
 ## Sesión 2
