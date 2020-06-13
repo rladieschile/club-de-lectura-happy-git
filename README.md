@@ -5,7 +5,7 @@
 Miércoles 10 de junio - 20:00 UTC-4 | Sesión a cargo de [Macarena Valenzuela](https://twitter.com/macavalenzuela)
 
 * [Video](https://vimeo.com/427950367)
-* Materiales
+* [Materiales](https://valenzuelabeltran.github.io/PRIMEROS_PASOS_GIT_GITHUB_RSTUDIO/#1)
 
 ## Sesión 2
 
