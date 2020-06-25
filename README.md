@@ -8,9 +8,15 @@ Miércoles 10 de junio - 20:00 UTC-4 | Sesión a cargo de [Macarena Valenzuela](
 * Materiales
 
 ## Sesión 2
+Sábado 20 de junio - 11:00 UTC-4 | Sesión a cargo de [Riva Quiroga](https://twitter.com/rivaquiroga)
+
+* Video (¡pronto!)
 
 ## Sesión 3
+Miércoles 24 de junio - 20:00 UTC-4 | Sesión a cargo de [Natalia Riquelme](https://twitter.com/NatyRiquelmeS)
 
+* [Video](https://vimeo.com/432356626)
+* Presentación
 ## Sesión 4
 
 ## Sesión 5
