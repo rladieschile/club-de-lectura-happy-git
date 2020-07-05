@@ -17,7 +17,11 @@ Miércoles 24 de junio - 20:00 UTC-4 | Sesión a cargo de [Natalia Riquelme](htt
 
 * [Video](https://vimeo.com/432356626)
 * Presentación
+
 ## Sesión 4
+Sábado 4 de julio - 11:00 UTC-4 | Sesión a cargo de [Riva Quiroga](https://twitter.com/rivaquiroga)
+
+* [Video](https://vimeo.com/435508006)
 
 ## Sesión 5
 
