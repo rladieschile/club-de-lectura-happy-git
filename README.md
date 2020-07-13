@@ -24,5 +24,9 @@ Sábado 4 de julio - 11:00 UTC-4 | Sesión a cargo de [Riva Quiroga](https://twi
 * [Video](https://vimeo.com/435508006)
 
 ## Sesión 5
+Miércoles 8 de julio - 20:00 UTC-4 | Sesión a cargo de [Gabriela Sandoval](https://twitter.com/GabySandovalM) y [Camila Molina](https://twitter.com/calmolinafe)
+
+* [Presentación](https://gabysandovalm.github.io/happy-git-r-sesion5/#1)
+* Video (¡Pronto!)
 
 ## Sesión 6
