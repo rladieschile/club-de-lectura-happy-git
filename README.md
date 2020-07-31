@@ -32,5 +32,6 @@ Miércoles 8 de julio - 20:00 UTC-4 | Sesión a cargo de [Gabriela Sandoval](htt
 ## Sesión 6
 Miércoles 29 de julio - 19:00 UTC-4 | Sesión a cargo de [Stephanie Orellana](https://twitter.com/sporella)
 
+* [Presentación](https://sporella.github.io/clublectura6/#1)
 * [Video](https://vimeo.com/443215971)
 
