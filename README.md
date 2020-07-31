@@ -30,3 +30,7 @@ Miércoles 8 de julio - 20:00 UTC-4 | Sesión a cargo de [Gabriela Sandoval](htt
 * [Video](https://vimeo.com/438011841)
 
 ## Sesión 6
+Miércoles 29 de julio - 19:00 UTC-4 | Sesión a cargo de [Stephanie Orellana](https://twitter.com/sporella)
+
+* [Video](https://vimeo.com/443215971)
+
